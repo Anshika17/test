@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 master_change
 hello world
+=======
+my name is anshika
+>>>>>>> branchtest
